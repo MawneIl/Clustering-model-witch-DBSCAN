@@ -5,7 +5,9 @@
 
 ## Инструкция для запуска
 Работа выполнена в ноутбуке, для успешного запуска требуется установить необходимые библиотеки из файла requirements.txt.
-<blockquote>pip install requirements.txt</blockquote>
+```
+pip install requirements.txt
+```
 
 ## Технологии
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
